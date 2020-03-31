@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: 'mongodb+srv://nagaveni:Website123@nvcluster-atcpl.mongodb.net/test?retryWrites=true&w=majority'
+      database: 'finances'
